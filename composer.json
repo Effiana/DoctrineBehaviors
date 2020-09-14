@@ -1,5 +1,5 @@
 {
-    "name": "knplabs/doctrine-behaviors",
+    "name": "effiana/doctrine-behaviors",
     "description": "Doctrine Behavior Traits",
     "type": "symfony-bundle",
     "keywords": [
@@ -14,8 +14,8 @@
         "php": "^7.2|^8.0",
         "doctrine/common": "^2.7|^3.0",
         "doctrine/persistence": "^1.3.4|^2.0",
-        "doctrine/dbal": "^2.9",
-        "doctrine/orm": "^2.7",
+        "doctrine/dbal": "^2.9|^3.0",
+        "doctrine/orm": "^2.7|^3.0",
         "symfony/cache": "^4.4|^5.1",
         "symfony/dependency-injection": "^4.4|^5.1",
         "symfony/http-kernel": "^4.4|^5.1",
